@@ -62,7 +62,7 @@ network:
 ```
 Lưu file, chạy sudo netplan apply
 
-Dùng ip a để xem card mạng: wlp2s0, enp9s31f6, v.v.
+Dùng lệnh "ip a" để xem card mạng: wlp2s0, enp9s31f6, v.v.
 
 Mở port 2222 trên firewall (nếu có): sudo ufw allow 2222
 
